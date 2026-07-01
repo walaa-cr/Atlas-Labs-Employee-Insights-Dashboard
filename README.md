@@ -4,7 +4,7 @@ A data-driven HR analytics dashboard for visualizing workforce demographics, per
 Performance Tracker, and Attrition—to support strategic HR decisions and improve organizational health.
 
 ---
-## Atlas Lab Dashboard
+## Atlas Labs Dashboard
 
 <img width="883" height="497" alt="overview dash" src="https://github.com/user-attachments/assets/28619828-5a7a-4506-87ba-c272a0b4e6dd" />
 <img width="880" height="498" alt="Demographics dash" src="https://github.com/user-attachments/assets/c01e619f-810a-40da-b44a-61fb0ead7dce" />
